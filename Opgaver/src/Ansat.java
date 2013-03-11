@@ -7,6 +7,7 @@
 		    private String Speciale;
 				    
 	        private String test2422;
+	        private String test99998;
 	
 		
 		public Ansat(Person p,String Stiling, String Speciale)
