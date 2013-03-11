@@ -6,7 +6,7 @@
 			private String Stilling;
 		    private String Speciale;
 				    
-	        private String test24;
+	        private String test2422;
 	
 		
 		public Ansat(Person p,String Stiling, String Speciale)
