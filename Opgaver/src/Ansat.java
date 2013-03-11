@@ -6,7 +6,7 @@
 			private String Stilling;
 		    private String Speciale;
 				    
-	        private String test2422;
+	    
 	        private String test99998;
 	
 		
